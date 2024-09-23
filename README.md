@@ -1,1 +1,1 @@
-# AlgoRythm
+# AlgoRhythm
